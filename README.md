@@ -1,0 +1,1 @@
+This repository holds both R and Python scripts that solve the first 3 problems from [Rosalind's Bioinformatics Stronghold](https://rosalind.info/problems/list-view/), to be used as coding examples for interviews. 
